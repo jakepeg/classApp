@@ -66,7 +66,6 @@ class Menu extends React.Component {
 }
 
 export default Menu;
-//export default connect(mapStateToProps)(Menu);
 
 const Container = styled.View`
   position: absolute;
